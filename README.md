@@ -4,6 +4,9 @@
 > 记录每天成长的点点滴滴，强迫自己学习。
 
 ### 学习内容
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
+![Node](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
 
 ---
 #### 计算机基础

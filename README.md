@@ -1,5 +1,5 @@
 # 记录学习
-<font face="黑体" color=#009DFF size=5>我是黑体，绿色，尺寸为5</font>
+<font face="黑体" color='#009DFF' size=5>我是黑体，绿色，尺寸为5</font>
 > $\color{#009DFF}{不患人之不能，而患己之不勉。}$
 > 记录每天成长的点点滴滴，强迫自己学习。
 

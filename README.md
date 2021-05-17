@@ -24,6 +24,10 @@
 
 - [x] 💡  [Underscore.js源码](https://www.underscorejs.com.cn/)
 - [x] 💃🏻  [JavaScript高级程序设计（第4版） ](https://weread.qq.com/web/reader/751326d0720befab7514782)
+### 计算机基础
+- [x] [Web内核讲解](https://weread.qq.com/web/reader/73a32ba0811e1b80fg0175c0ke4d32d5015e4da3b7fbb1fa)
+- [x] [计算机组成原理](https://juejin.cn/post/6844904070751191047)
+- [x] [计算机网络](https://juejin.cn/post/6844904079974465544)
 
 ### 前端公共技术
 

@@ -64,6 +64,11 @@
 * [x] [手把手带你掌握新版Webpack4.0](https://coding.imooc.com/class/316.html)
 * [x] 自制脚手架
 
+### Eslint
+* [x] [Eslint学习](http://eslint.cn/)
+
+
+
 ### 每周两篇收藏文章
 
 鉴于收藏的好文都在落灰，监督自己每周精读`（读三次）`两篇文章，然后删除收藏，记录在此，算是打怪升级吧！

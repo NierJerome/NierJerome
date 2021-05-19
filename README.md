@@ -29,6 +29,10 @@
 - [x] [计算机组成原理](https://juejin.cn/post/6844904070751191047)
 - [x] [计算机网络](https://juejin.cn/post/6844904079974465544)
 
+### 前端基础
+- [x] [TypeScript](https://www.tslang.cn/)
+
+
 ### 前端公共技术
 
 ### Vue框架

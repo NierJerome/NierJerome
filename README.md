@@ -1,7 +1,7 @@
 # 记录学习
  <font color="#009dFF" size="5" >不患人之不能，而患己之不勉。</font>
 ## 不患人之不能，而患己之不勉。
-> 记录每天成长的点点滴滴，强迫自己学习。
+> 记录每天成长的点点滴滴。
 
 ### 学习内容
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)

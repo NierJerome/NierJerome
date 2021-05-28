@@ -39,7 +39,7 @@
 
 * [x] [Vue.js源码全方位深入解析](https://coding.imooc.com/class/228.html)
 * [x] [逐行级别vue源码](https://github.com/HcySunYang/vue-design)
-* [x] [深入浅出vue.js]
+* [x] 深入浅出vue.js
 
 ### react 框架
 
